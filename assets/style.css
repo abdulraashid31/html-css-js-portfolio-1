@@ -383,6 +383,12 @@ article.icon {
   border-color: rgb(163, 163, 163);
 }
 
+.section__pic-container {
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+}
+
 /* CONTACT */
 
 #contact {
